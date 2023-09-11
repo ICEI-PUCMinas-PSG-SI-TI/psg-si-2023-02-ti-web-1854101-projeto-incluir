@@ -1,21 +1,21 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  PROJETO INCLUIR ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  ANÁLISE E DESENVOLVILMENTO DE SISTEMAS ......
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Amor Thedim Neto Ferreira
+> - Gabriela Cristina Freitas de Lima
+> - Gledson Cauã Pinheiro Leão
+> - Iago Pereira Alves
+> - Mariana Martins Moreira
+> - Sara Marçal Rocha
 
 # Estrutura do Documento
 
@@ -36,18 +36,16 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
+  Na sociedade contemporânea, o mundo está em constante evolução, passando por mudanças progressivas e cada vez mais rápidas. Um exemplo claro disso é a revolução digital, que tem causado impactos significativos em diversos setores, bem como as revoluções sociais, que têm promovido transformações profundas na forma como nos relacionamos e nos organizamos como sociedade.
+
+  Dessa forma, em uma sociedade que possui estruturas excludentes o acesso de pessoas com deficiência (PCDs), neurodivergentes, LGBTQIA+ e pessoas não brancas aos ambientes comunitários pode se tornar um desafio significativo. Essa dificuldade resulta na violação de sua dignidade, bem-estar e direitos, sem que medidas efetivas sejam tomadas para resolver essas questões. Sendo assim, infelizmente, essa situação acaba gerando uma vulnerabilidade civil para esses grupos específicos, fato muito corriqueiro no Brasil que, segundo pesquisa “Os Perigos da Percepção”, realizada pelo instituto Ipsos, é o 5º colocado em novo ranking de países ‘mais ignorantes’ do mundo.
+
+  Diante disso, torna-se imprescindível a união entre tecnologia e inclusão, buscando combater o preconceito e proporcionar que os indivíduos citados anteriormente não apenas desfrutem de sua cidadania, mas também enriqueçam a diversidade e a convivência social, contribuindo para uma sociedade mais enriquecida em experiências e perspectivas. Portanto, é fundamental promover e apoiar iniciativas nesse sentido, representando um passo importante rumo à construção de um mundo mais inclusivo e acolhedor para todos.
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O problema central reside na exclusão enfrentada pelos grupos marginalizados, como a comunidade LGBTQIA+, pessoas com deficiência, mulheres e pessoas não brancas. Essa exclusão é causada pela falta de acessibilidade e pela persistência do preconceito em locais públicos. Como resultado, esses grupos são severamente limitados em sua participação plena na sociedade, o que reduz a igualdade e a inclusão em espaços de lazer, como bares, resturantes, baladas e demais lugares públicos. ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
 
 ## Objetivos
 
