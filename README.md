@@ -1,19 +1,18 @@
-# Nome do projeto
+# Projeto Incluir
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 4
-* Nome completo do aluno 4
+* Amor Thedim Neto Ferreira
+* Gabriela Cristina Freitas de Lima
+* Gledson Cauã Pinheiro Leão
+* Iago Pereira Alves
+* Mariana Martins Moreira
+* Sara Marçal Rocha
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Felipe Augusto Lima Reis
 
 ## Quadro de tarefas
 Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
