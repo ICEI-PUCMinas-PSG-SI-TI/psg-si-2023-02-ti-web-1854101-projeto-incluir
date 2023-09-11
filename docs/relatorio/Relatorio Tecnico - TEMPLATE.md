@@ -105,10 +105,10 @@
 > - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > 
 > **Exemplo de Ficha**
-> [persona 1](images/persona-1.jpg)
-> [persona 2](images/persona-2.jpg)
-> [persona 3](images/persona-3.jpg)
-> [persona 4](images/persona-4.jpg)
+> [persona 1](images/persona-1.png)
+> [persona 2](images/persona-2.png)
+> [persona 3](images/persona-3.png)
+> [persona 4](images/persona-4.png)
  
 
 ## Histórias de Usuários
