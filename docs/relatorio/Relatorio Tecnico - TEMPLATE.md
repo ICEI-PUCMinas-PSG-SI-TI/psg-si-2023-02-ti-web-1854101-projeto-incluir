@@ -117,8 +117,33 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|    LIA SIQUEIRA    | Avaliar estabelecimentos visitados | Saber onde será agradavel e seguro de  |
+|                    |                                    | visitar                                |
+|--------------------|------------------------------------|----------------------------------------|
+|    CAIO MARTIN     | Ter uma biblioteca pessoal de      | Manter um histórico dos lugares favori-|
+|                    | melhores avaliados                 | tos e lugares que não agradou          |
+|--------------------|------------------------------------|----------------------------------------|
+|    LUIZA LIMA      | Ter um local de "reclame aqui"     | Para o usuário poder participar com voz| 
+|                    |                                    |  ativa da plataforma                   | 
+|--------------------|------------------------------------|----------------------------------------|
+|    LUIZA LIMA      | Ter um perfil pessoal onde pode-se | Para maior usabilidade e individualiza-|
+|                    | logar e deslogar                   | ção  do usuário                        |          
+|--------------------|------------------------------------|----------------------------------------|
+|    JOÃO SILVA      | Poder pesquisar locais com filtro  | Para otimização da pesquisa            |
+|                    | de tipo de estabelecimento         |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|    JOÃO SILVA      | Poder ver o grafico de fluxo de    | Para melhor usabulidade                |
+|                    | pessoas do estabelecimento         |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+
+
+
+
+
+
+
+
+
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
