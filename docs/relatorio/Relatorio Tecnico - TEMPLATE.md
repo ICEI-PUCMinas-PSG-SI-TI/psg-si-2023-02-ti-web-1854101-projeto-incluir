@@ -222,6 +222,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 > ![Exemplo de Link para Wireframe](images/fotodousuario.png)
 
+> ![Exemplo de Link para Wireframe](images/avaliação.png)
+
 
 ## Mapa de navegação
 
