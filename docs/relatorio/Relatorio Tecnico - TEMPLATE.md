@@ -81,7 +81,7 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  As tecnicas e ferramentas utilizadas no projeto foram: DesignThinking, SCRUM. ......
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -198,7 +198,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-......  As tecnologias utilizadas serão: HTML, CSS, JAVASCRIPT, BOOTSTRAP. ......
+......  As tecnologias utilizadas serão: HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, CANVA. ......
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
 
 ## Wireframes
