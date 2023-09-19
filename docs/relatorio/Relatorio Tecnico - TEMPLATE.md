@@ -49,7 +49,7 @@
 
 ## Objetivos
 
-......  O objetivo central do Syoko é aprimorar a experiencia de algumas minorias em ambiêntes públicos e privados por meio de aplicações de avaliação, onde o usuário poderá ter voz ativa na crítica de estabelecimentos diversos afim de incluir e priorizar necessidades muitas vezes negligenciadas pela sociedade e com isso tornar a vida cívica mais democrática e igualitária. O Syoko permite ao usuário armazenar suas melhores e piores avaliações e checar onde pessoas com a identidade parecida gostaram ou desgostram de visitar
+......  O objetivo central do Syoko é aprimorar a experiência de algumas minorias em ambientes públicos e privados por meio de aplicações de avaliação, onde o usuário poderá ter voz ativa na crítica dos estabelecimentos diversos afim de incluir e priorizar necessidades muitas vezes negligenciadas pela sociedade e com isso tornar a vida cívica mais democrática e igualitária. O Syoko permite ao usuário armazenar suas melhores e piores avaliações e checar onde pessoas com a identidade parecida gostaram ou não de visitar
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,20 +89,6 @@
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > 
 > **Exemplo de Ficha**
 > ![persona 1](images/persona-1.png)
@@ -138,22 +124,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 
 
-
-
-
-
-
-
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> da sua aplicação. Utilize as personas criadas como atores e, se for o caso, um administrador. 
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos
 
 A tabela que segue apresenta os requisitos funcionais do projeto. 
@@ -187,15 +157,6 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |Rt-2 | 
 
 
-
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 # Projeto da Solução
 
 ......  As tecnologias utilizadas serão: HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, CANVA. ......
@@ -203,18 +164,6 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
 > **Exemplo**:
 > 
