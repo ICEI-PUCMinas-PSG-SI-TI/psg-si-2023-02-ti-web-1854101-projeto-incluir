@@ -160,10 +160,33 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID    | Descrição do Requisito                                                 | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário crie uma conta pessoal e faça login                  | ALTA | 
+|RF-002| Deve ter um sistema de avaliação por nota e comentário                      | ALTA |
+|RF-003| Deve ter uma biblioteca pessoal para o usuário cadastrado                   | ALTA |
+|RF-004| Deve ter a opção de editar os elementos da biblioteca                       | ALTA |
+|RF-005| Deve ter um filtro de estabelecimento por tipo                              | ALTA |
+|RF-006| Deve ser permitido compartilhar perfis de estabelecimentos em redes sociais |MEDIA | 
+|RF-007| Na biblioteca deve ter armazenado uma lista de desejos                      |MEDIA |
+|RF-008| Na biblioteca deve ter um histórico de locais avaliados pelo usuário        |MEDIA |
+
+
+### Requisitos Não Funcionais
+
+|ID   | Descrição do Requisito                                                 |Propriedade|
+|-----|------------------------------------------------------------------------|-----------|
+|RNF-1| O site deve ser responsivo                                             | ALTA      |
+|RNF-2| 
+
+### Restrições
+
+|ID   | Descrição do Requisito                                               
+|-----|----------------------------------------------------------|
+|Rt-1 | A biblioteca sera limitada por três itens em cada seção               
+|Rt-2 | 
+
+
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
