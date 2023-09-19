@@ -219,7 +219,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > **Exemplo**:
 > 
 > ![Exemplo de Link para Wireframe](images/wireframPrincipal.png)
-> ![Exemplo de Link para Wireframe](images/Foto do Usuário git.png)
+> ![Exemplo de Link para Wireframe](images/fotodousuario.png)
 
 
 ## Mapa de navegação
