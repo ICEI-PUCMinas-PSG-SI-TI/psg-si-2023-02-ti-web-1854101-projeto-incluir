@@ -177,8 +177,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |ID   | Descrição do Requisito                                                 |Propriedade|
 |-----|------------------------------------------------------------------------|-----------|
 |RNF-1| O site deve ser responsivo                                             | ALTA      |
-|RNF-2| 
-
+|RNF-2| Deve ser compatível com todos os navegadores                           | ALTA      |
+|RNF-3| O site deve suportar vários usuários simultaneamente                   | ALTA      |
 ### Restrições
 
 |ID   | Descrição do Requisito                                               
