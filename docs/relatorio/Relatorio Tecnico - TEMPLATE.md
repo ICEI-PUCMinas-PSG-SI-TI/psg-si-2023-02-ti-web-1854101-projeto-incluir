@@ -198,7 +198,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  As tecnologias utilizadas serão: HTML, CSS, JAVASCRIPT, BOOTSTRAP. ......
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
 
 ## Wireframes
