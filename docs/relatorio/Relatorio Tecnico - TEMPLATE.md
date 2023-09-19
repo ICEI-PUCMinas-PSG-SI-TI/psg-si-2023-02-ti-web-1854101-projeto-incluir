@@ -49,7 +49,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O objetivo central do Syoko é aprimorar a experiencia de algumas minorias em ambiêntes públicos e privados por meio de aplicações de avaliação, onde o usuário poderá ter voz ativa na crítica de estabelecimentos diversos afim de incluir e priorizar necessidades muitas vezes negligenciadas pela sociedade e com isso tornar a vida cívica mais democrática e igualitária. O Syoko permite ao usuário armazenar suas melhores e piores avaliações e checar onde pessoas com a identidade parecida gostaram ou desgostram de visitar
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -62,7 +62,7 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O público alvo será para minorias que sofrem algum tipo de violencia como exclusão ou negligencia, com foco em pessoas com deficiência, neurodivergentes, LGBTQIA+ e pessoas não brancas. ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
