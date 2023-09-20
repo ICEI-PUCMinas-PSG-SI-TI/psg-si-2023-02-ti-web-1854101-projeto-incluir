@@ -36,28 +36,34 @@
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-  Na sociedade contemporânea, o mundo está em constante evolução, passando por mudanças progressivas e cada vez mais rápidas. Um exemplo claro disso é a revolução digital, que tem causado impactos significativos em diversos setores, bem como as revoluções sociais, que têm promovido transformações profundas na forma como nos relacionamos e nos organizamos como sociedade.
 
-  Dessa forma, em uma sociedade que possui estruturas excludentes o acesso de pessoas com deficiência (PCDs), neurodivergentes, LGBTQIA+ e pessoas não brancas aos ambientes comunitários pode se tornar um desafio significativo. Essa dificuldade resulta na violação de sua dignidade, bem-estar e direitos, sem que medidas efetivas sejam tomadas para resolver essas questões. Sendo assim, infelizmente, essa situação acaba gerando uma vulnerabilidade civil para esses grupos específicos, fato muito corriqueiro no Brasil que, segundo pesquisa “Os Perigos da Percepção”, realizada pelo instituto Ipsos, é o 5º colocado em novo ranking de países ‘mais ignorantes’ do mundo.
+Na sociedade contemporânea, o mundo está em constante evolução, passando por mudanças progressivas e cada vez mais rápidas. Um exemplo claro disso é a revolução digital, que tem causado impactos significativos em diversos setores, bem como as revoluções sociais, que têm promovido transformações profundas na forma como os indivíduos se relacionam e se organizam como corpo social.
 
-  Diante disso, torna-se imprescindível a união entre tecnologia e inclusão, buscando combater o preconceito e proporcionar que os indivíduos citados anteriormente não apenas desfrutem de sua cidadania, mas também enriqueçam a diversidade e a convivência social, contribuindo para uma sociedade mais enriquecida em experiências e perspectivas. Portanto, é fundamental promover e apoiar iniciativas nesse sentido, representando um passo importante rumo à construção de um mundo mais inclusivo e acolhedor para todos.
+Dessa forma, em uma sociedade que possui estruturas excludentes, o acesso de pessoas com deficiência (PCDs), neurodivergentes, LGBTQIA+ e pessoas não brancas aos ambientes comunitários pode se tornar um desafio significativo. Essa dificuldade resulta na violação de sua dignidade, bem-estar e direitos, sem que medidas efetivas sejam tomadas para resolver essas questões. Sendo assim, infelizmente, essa situação acaba gerando uma vulnerabilidade civil para esses grupos específicos, fato muito corriqueiro no Brasil que, segundo pesquisa “Os Perigos da Percepção”, realizada pelo instituto Ipsos, é o 5º colocado em novo ranking de "países mais ignorantes do mundo".
+
+Diante disso, torna-se imprescindível a união entre tecnologia e inclusão, buscando combater o preconceito e proporcionar que os sujeitos citados anteriormente não apenas desfrutem de sua cidadania, mas também desfrutem da diversidade e da convivência social, contribuindo para uma comunidade mais enriquecida em experiências e perspectivas. Portanto, é fundamental promover e apoiar iniciativas nesse sentido, representando um passo importante rumo à construção de um mundo mais inclusivo e acolhedor para todos.
+
 
 ## Problema
 
-......  O problema central reside na exclusão enfrentada pelos grupos marginalizados, como a comunidade LGBTQIA+, pessoas com deficiência, mulheres e pessoas não brancas. Essa exclusão é causada pela falta de acessibilidade e pela persistência do preconceito em locais públicos. Como resultado, esses grupos são severamente limitados em sua participação plena na sociedade, o que reduz a igualdade e a inclusão em espaços de lazer, como bares, resturantes, baladas e demais lugares públicos. ......
+Conforme foi apresentado, o problema central reside na exclusão enfrentada pelos grupos marginalizados, como a comunidade LGBTQIA +, PCDs, mulheres e pessoas não brancas. Essa exclusão é causada pela falta de acessibilidade e pela persistência do preconceito em locais públicos e privados. Como resultado, esses grupos são severamente limitados em sua participação plena na sociedade, o que reduz a igualdade e aumenta a inclusão em espaços de lazer, como bares, restaurantes, baladas e demais ambientes que visam interação social.
 
 
 ## Objetivos
 
-O objetivo central do Syoko é ampliar a experiência de grupos marginalizados em ambientes públicos e privados, promovendo assim a inclusão e acessibilidade. Esse objetivo será cumprido por meio de aplicações de avaliação, a fim de incluir e priorizar as necessidades de lazer dos usuários, que são muitas vezes negligenciadas pela sociedade. Por esse motivo, o Syoko  O Syoko permitirá que os usuários avaliem e critiquem ativamente estabelecimentos, contribuindo para a priorização das necessidades de lazer desses grupos e tornando a vida cívica mais democrática e igualitária.
+O objetivo central do Syoko é ampliar a experiência de grupos marginalizados em ambientes públicos e privados, promovendo assim a inclusão e acessibilidade. Esse objetivo será cumprido por meio de aplicações de avaliação, a fim de incluir e priorizar as necessidades de lazer dos usuários, que são muitas vezes negligenciadas pela sociedade. Por esse motivo, o Syoko permitirá que os usuários avaliem e critiquem ativamente estabelecimentos, contribuindo para a priorização das necessidades de lazer desses grupos e tornando a vida cívica mais democrática e igualitária.
 
 Como objetivos específicos, pode-se destacar:
-- Facilitar a avaliação ativa: fornecer funcionalidades que que o usuário a vlie e critique os estabelecimentos de forma acessivel  e intuitiva,
-- Fomentar a comunidade: permitir ao usuário armazenar, ordenar compartilhar as suas avaliações, checar os locais que a(s) comunidade(s) recomendam e assim contruibuir para que outros usuários também tenham essa experiência.
+- Facilitar a avaliação ativa: fornecer funcionalidades que o usuário avalie e critique os estabelecimentos de forma acessível e intuitiva;
+- Fomentar a comunidade: permitir ao usuário armazenar, ordenar compartilhar as suas avaliações, checar os locais que a(s) comunidade(s) recomendam e assim contribuir para que outros usuários também tenham essa experiência.
+
   
 ## Público-Alvo
 
-......  O público alvo será para minorias que sofrem algum tipo de violencia como exclusão ou negligencia, com foco em pessoas com deficiência, neurodivergentes, LGBTQIA+ e pessoas não brancas. ......
+Apesar do SkyoKo poder beneficiar toda a sociedade, o projeto tem como foco maior atingir indivíduos que enfrentam desafios significativos de inclusão e acessibilidade devido a barreiras sociais e estruturais.
+
+Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (física, mental, intelectual ou sensorial), os neurodivergentes (pessoas que têm um desenvolvimento ou funcionamento neurológico diferente do padrão), os membros da comunidade LGBTQIA+ (Lésbicas, Gays, Bissexuais, Transgêneros, Queer, Questionando, Intersexuais, Assexuais,+) e as pessoas não-brancas (indigenas, amarelos e pretos). Ademais, considera-se que esse público tenha acesso à internet e esteja familiarizado com o acesso à aplicações web, não sendo necessário um conhecimento tecnológico aprofundado pois o software tem o objetivo de ser de fácil uso.
+
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
