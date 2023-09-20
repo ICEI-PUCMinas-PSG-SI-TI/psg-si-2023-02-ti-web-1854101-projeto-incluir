@@ -49,17 +49,12 @@
 
 ## Objetivos
 
-......  O objetivo central do Syoko é ampliar a experiência das minorias citadas acima em ambientes públicos e privados. Esse objetivo será cumprido por meio de aplicações de avaliação, nas quais o usuário poderá avaliar e criticiar ativamente os mais diversos estabelecimentos, a fim de incluir e priorizar as necessidades  de lazer dos usuários, que são muitas vezes negligenciadas pela sociedade. Com isso, tem-se  como propósito tornar a vida cívica mais democrática e igualitária. Por esse motivo, o Syoko permite ao usuário armazenar e ordenar as suas avaliações, checar os locais que a(s) comunidade(s) recomendam e contruibuir para que outros usuários também tenham essa experiência.
+O objetivo central do Syoko é ampliar a experiência de grupos marginalizados em ambientes públicos e privados, promovendo assim a inclusão e acessibilidade. Esse objetivo será cumprido por meio de aplicações de avaliação, a fim de incluir e priorizar as necessidades de lazer dos usuários, que são muitas vezes negligenciadas pela sociedade. Por esse motivo, o Syoko  O Syoko permitirá que os usuários avaliem e critiquem ativamente estabelecimentos, contribuindo para a priorização das necessidades de lazer desses grupos e tornando a vida cívica mais democrática e igualitária.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+Como objetivos específicos, pode-se destacar:
+- Facilitar a avaliação ativa: fornecer funcionalidades que que o usuário a vlie e critique os estabelecimentos de forma acessivel  e intuitiva,
+- Fomentar a comunidade: permitir ao usuário armazenar, ordenar compartilhar as suas avaliações, checar os locais que a(s) comunidade(s) recomendam e assim contruibuir para que outros usuários também tenham essa experiência.
+  
 ## Público-Alvo
 
 ......  O público alvo será para minorias que sofrem algum tipo de violencia como exclusão ou negligencia, com foco em pessoas com deficiência, neurodivergentes, LGBTQIA+ e pessoas não brancas. ......
