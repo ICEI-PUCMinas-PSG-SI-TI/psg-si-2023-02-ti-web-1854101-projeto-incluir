@@ -49,7 +49,7 @@
 
 ## Objetivos
 
-......  O objetivo central do Syoko é aprimorar a experiência de algumas minorias em ambientes públicos e privados por meio de aplicações de avaliação, onde o usuário poderá ter voz ativa na crítica dos estabelecimentos diversos afim de incluir e priorizar necessidades muitas vezes negligenciadas pela sociedade e com isso tornar a vida cívica mais democrática e igualitária. O Syoko permite ao usuário armazenar suas melhores e piores avaliações e checar onde pessoas com a identidade parecida gostaram ou não de visitar
+......  O objetivo central do Syoko é ampliar a experiência das minorias citadas acima em ambientes públicos e privados. Esse objetivo será cumprido por meio de aplicações de avaliação, nas quais o usuário poderá avaliar e criticiar ativamente os mais diversos estabelecimentos, a fim de incluir e priorizar as necessidades  de lazer dos usuários, que são muitas vezes negligenciadas pela sociedade. Com isso, tem-se  como propósito tornar a vida cívica mais democrática e igualitária. Por esse motivo, o Syoko permite ao usuário armazenar e ordenar as suas avaliações, checar os locais que a(s) comunidade(s) recomendam e contruibuir para que outros usuários também tenham essa experiência.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
