@@ -1,7 +1,6 @@
-# Informações do Projeto
-`TÍTULO DO PROJETO`  
+# Informações do Projeto  
 
-......  PROJETO INCLUIR ......
+......  PROJETO SYOKO ......
 
 `CURSO` 
 
@@ -104,22 +103,22 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|    LIA SIQUEIRA    | Avaliar estabelecimentos visitados | Saber onde será agradavel e seguro de  |
+|    LIA SIQUEIRA    | Avaliar estabelecimentos visitados | Saber onde será agradável e seguro de  |
 |                    |                                    | visitar                                |
 |--------------------|------------------------------------|----------------------------------------|
 |    CAIO MARTIN     | Ter uma biblioteca pessoal de      | Manter um histórico dos lugares favori-|
-|                    | melhores avaliados                 | tos e lugares que não agradou          |
+|                    | locais melhores avaliados          | tos e lugares que não gostou           |
 |--------------------|------------------------------------|----------------------------------------|
-|    LUIZA LIMA      | Ter um local de "reclame aqui"     | Para o usuário poder participar com voz| 
-|                    |                                    |  ativa da plataforma                   | 
+|    LUIZA LIMA      | Ter um espaço de "reclame aqui"    | Para poder participar com voz ativa na | 
+|                    |                                    | plataforma e reportar possíveis erros  | 
 |--------------------|------------------------------------|----------------------------------------|
-|    LUIZA LIMA      | Ter um perfil pessoal onde pode-se | Para maior usabilidade e individualiza-|
-|                    | logar e deslogar                   | ção  do usuário                        |          
+|    LUIZA LIMA      | Ter um perfil pessoal que torne    | Para maior usabilidade e               |
+|                    | possin fazer *login*/*logoff*      | individualização do usuário            |          
 |--------------------|------------------------------------|----------------------------------------|
 |    JOÃO SILVA      | Poder pesquisar locais com filtro  | Para otimização da pesquisa            |
-|                    | de tipo de estabelecimento         |                                        |
+|                    | de tipos de estabelecimento        |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|    JOÃO SILVA      | Poder ver o grafico de fluxo de    | Para melhor usabulidade                |
+|    JOÃO SILVA      | Poder ver o grafico de fluxo de    | Para melhor usabilidade e              |
 |                    | pessoas do estabelecimento         |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 
@@ -133,14 +132,14 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito                                                 | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário crie uma conta pessoal e faça login                  | ALTA | 
+|RF-001| Permitir que o usuário crie uma conta pessoal e faça *login*                | ALTA | 
 |RF-002| Deve ter um sistema de avaliação por nota e comentário                      | ALTA |
 |RF-003| Deve ter uma biblioteca pessoal para o usuário cadastrado                   | ALTA |
 |RF-004| Deve ter a opção de editar os elementos da biblioteca                       | ALTA |
 |RF-005| Deve ter um filtro de estabelecimento por tipo                              | ALTA |
-|RF-006| Deve ser permitido compartilhar perfis de estabelecimentos em redes sociais |MEDIA | 
-|RF-007| Na biblioteca deve ter armazenado uma lista de desejos                      |MEDIA |
-|RF-008| Na biblioteca deve ter um histórico de locais avaliados pelo usuário        |MEDIA |
+|RF-006| Deve ser permitido compartilhar perfis de estabelecimentos em redes sociais |MÉDIA | 
+|RF-007| A biblioteca deve armazenar uma lista de desejos                            |MÉDIA |
+|RF-008| A biblioteca deve ter um histórico de locais avaliados pelo usuário         |MÉDIA |
 
 
 ### Requisitos Não Funcionais
