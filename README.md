@@ -18,5 +18,6 @@ O objetivo principal do projeto Syoko é diminuir a exclusão e a lacuna de aces
 Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
 
 ## Instruções para uso
+[Documentação do Projeto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-projeto-incluir/tree/master/docs#documenta%C3%A7%C3%A3o-do-projeto)
 Coloque aqui as instruções para acessar a página inicial do projeto (caminho completo do arquivo).
 
