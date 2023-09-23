@@ -91,10 +91,10 @@ Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (físic
 
 > 
 > **Exemplo de Ficha**
-> ![persona 1](images/persona-1.png)
-> ![persona 2](images/persona-2.png)
-> ![persona 3](images/persona-3.png)
-> ![persona 4](images/persona-4.png)
+> ![persona 1](images/person1.png)
+> ![persona 2](images/person2.png)
+> ![persona 3](images/person3.png)
+> ![persona 4](images/person4.png)
  
 
 ## Histórias de Usuários
