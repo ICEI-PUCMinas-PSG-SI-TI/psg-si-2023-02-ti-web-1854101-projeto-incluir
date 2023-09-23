@@ -132,15 +132,18 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito                                                 | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário crie uma conta pessoal e faça *login*                | ALTA | 
-|RF-002| Deve ter um sistema de avaliação por nota e comentário                      | ALTA |
-|RF-003| Deve ter uma biblioteca pessoal para o usuário cadastrado                   | ALTA |
-|RF-004| Deve ter a opção de editar os elementos da biblioteca                       | ALTA |
-|RF-005| Deve ter um filtro de estabelecimento por tipo                              | ALTA |
-|RF-006| Deve ser permitido compartilhar perfis de estabelecimentos em redes sociais |MÉDIA | 
-|RF-007| A biblioteca deve armazenar uma lista de desejos                            |MÉDIA |
-|RF-008| A biblioteca deve ter um histórico de locais avaliados pelo usuário         |MÉDIA |
-
+|RF-001| Permitir que o usuário crie uma conta pessoal.                              | ALTA | 
+|RF-002| Deve permitir que o usuário faça login.                                     | ALTA |
+|RF-003| Deve ter uma biblioteca pessoal para o usuário cadastrado.                  | ALTA |
+|RF-004| Deve ter a opção de editar os elementos da biblioteca.                      | ALTA |
+|RF-005| Deve ter um filtro de estabelecimento por classificação.                    | ALTA |
+|RF-009| Deve ter um sistema de avaliação por nota e comentário                      | ALTA |
+|RF-010| Deve dar a possibilidade ao usuário de visitar paginas de outros usuários.  | ALTA |
+|RF-006| Deve ser permitido compartilhar perfis de estabelecimentos em redes sociais.| MÉDIA| 
+|RF-007| A biblioteca deve armazenar uma lista de desejos.                           | MÉDIA|
+|RF-008| A biblioteca deve ter um histórico de locais avaliados pelo usuário.        | MÉDIA|
+|RF-011| A biblioteca deve armazenar uma lista de lugares mais mal avaliados.        | BAIXA|
+|RF-012| Deve permitir o usuário fazer comentários e avaliações em tempo real.       | BAIXA|
 
 ### Requisitos Não Funcionais
 
@@ -149,11 +152,12 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RNF-1| O site deve ser responsivo                                             | ALTA      |
 |RNF-2| Deve ser compatível com todos os navegadores                           | ALTA      |
 |RNF-3| O site deve suportar vários usuários simultaneamente                   | ALTA      |
+
 ### Restrições
 
 |ID   | Descrição do Requisito                                               
 |-----|----------------------------------------------------------|
-|Rt-1 | A biblioteca sera limitada por três itens em cada seção               
+|Rt-1 | A biblioteca sera limitada por três itens em cada seção  |             
 |Rt-2 | 
 
 
