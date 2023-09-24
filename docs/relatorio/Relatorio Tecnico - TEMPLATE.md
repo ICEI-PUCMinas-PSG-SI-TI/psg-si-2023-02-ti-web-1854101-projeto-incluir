@@ -64,21 +64,6 @@ Apesar do SkyoKo poder beneficiar toda a sociedade, o projeto tem como foco maio
 Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (física, mental, intelectual ou sensorial), os neurodivergentes (pessoas que têm um desenvolvimento ou funcionamento neurológico diferente do padrão), os membros da comunidade LGBTQIA+ (Lésbicas, Gays, Bissexuais, Transgêneros, Queer, Questionando, Intersexuais, Assexuais,+) e as pessoas não-brancas (indigenas, amarelos e pretos). Ademais, considera-se que esse público tenha acesso à internet e esteja familiarizado com o acesso à aplicações web, não sendo necessário um conhecimento tecnológico aprofundado pois o software tem o objetivo de ser de fácil uso.
 
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
 ......  As tecnicas e ferramentas utilizadas no projeto foram: DesignThinking, SCRUM. ......
