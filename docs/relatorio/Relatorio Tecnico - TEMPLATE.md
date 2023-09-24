@@ -164,8 +164,9 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > ![Exemplo de Link para Wireframe](images/locais.png)
 > ![Exemplo de Link para Wireframe](images/Bibliotecaamg.png)
 >  ![Exemplo de Link para Wireframe](images/sobrenos.png)
->
->
+>![Exemplo de Link para Wireframe](images/contato.png)
+> ![Exemplo de Link para Wireframe](images/termos.png)
+>![Exemplo de Link para Wireframe](images/cadastro.png)
 
 
 ## Mapa de navegação
