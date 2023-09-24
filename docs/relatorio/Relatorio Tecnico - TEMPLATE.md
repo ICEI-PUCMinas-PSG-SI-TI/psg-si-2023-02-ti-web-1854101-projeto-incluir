@@ -168,7 +168,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > ![Exemplo de Link para Wireframe](images/termos.jpg)
 >![Exemplo de Link para Wireframe](images/cadastro.jpg)
 > >![Exemplo de Link para Wireframe](images/guia.jpg)
-
+>![Exemplo de Link para Wireframe](images/editar-perfil.png)
 
 ## Mapa de navegação
 
