@@ -184,10 +184,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Conclusões
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+Em meados do século XXI, a sociedade vem se conscientizando sobre as práticas abusivas e discriminatórias com tratamentos excludentes as minorias. Mas,infelizmente, essa conscientização ainda vem a passos lentos e com isso o nosso projeto é usar o Syoko como ferramenta eficaz  para achar um caminho que assegure a proteção daqueles que se sentem inseguros em espaços de lazer. 
+Portanto,o site vem com o propósito de facilitar que as pessoas que se encaixam nesses lugares de vulnerabilidade tenham resguardado o seu direito constitucional de ir e vir em espaços públicos e privados em segurança e, principalmente, que se sintam pertencentes, acolhidos e que  suas experiências possam servir de referência para seus semelhantes.Sendo assim, elas terão mais segurança para frequentar espaços recomendados por usuários que ocupam o mesmo lugar de fala. 
+ 
 
 
