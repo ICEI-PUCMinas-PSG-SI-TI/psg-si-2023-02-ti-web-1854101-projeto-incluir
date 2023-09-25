@@ -181,7 +181,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 
 > **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
+> ![Exemplo de Diagrama de Navegação](images/mapa-de-navegacao.png)
 
 # Conclusões
 
