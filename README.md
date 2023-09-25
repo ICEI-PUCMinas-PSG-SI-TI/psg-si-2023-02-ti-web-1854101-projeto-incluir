@@ -11,14 +11,10 @@ O objetivo principal do projeto Syoko é diminuir a exclusão e a lacuna de aces
 * Sara Marçal Rocha
 
 ## Controle de projeto 
-* Scrum Master:               Gabriela Cristina Freitas de Lima
-* Product Owner:              Amor Thedim Neto Ferreira
-* Desenvolvedores back-end:   Gledson Cauã Pinheiro Leão
-                              Sara Marçal Rocha
-* Desenvolvedores front-end:  Iago Pereira Alves
-                              Mariana Martins Moreira
-
-
+* Scrum Master: Gabriela Cristina Freitas de Lima
+* Product Owner: Amor Thedim Neto Ferreira
+* Desenvolvedores back-end: Gledson Cauã Pinheiro Leão e Sara Marçal Rocha
+* Desenvolvedores front-end: Iago Pereira Alves e Mariana Martins Moreira
 
 ## Professores responsáveis
 
