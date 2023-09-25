@@ -33,6 +33,7 @@
   - [Wireframes](#wireframes)
   - [Mapa de navegação](#mapa-de-navegação)
 - [Conclusões](#avaliação-da-aplicação)
+- [Referências Bibliográficas](#Referências-Bibliográficas)
   
 # Introdução
 
@@ -188,6 +189,28 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 Em síntese, no contexto do século XXI, a sociedade está gravidamente se tornando mais consciente a respeito das práticas discriminatórias com as minorias. Entretanto, é evidente que esse processo de mudança está ocorrendo de forma lenta. Por isso, é nesse contexto que o projeto Syoko surge como uma ferramenta eficaz para garantir a proteção desses grupos minoritárs que se sentem inseguros nos espaços de lazer.
 
 Portanto, o site tem como objetivo facilitar o acesso seguro de pessoas em situação de vulnerabilidade aos espaços públicos e privados, garantindo seu direito constitucional de ir e vir. Além disso, busca promover um sentimento de pertencimento e acolhimento, utilizando as experiências dessas pessoas como referência para outros em situações semelhantes. Através da combinação de tecnologia e inclusão, o site proporcionará mais segurança ao recomendar espaços frequentados por usuários que compartilham a mesma vivência.
+
+ # Referências Bibliográficas
+
+BUENO,  Mariza  Schuster.  Direito  das  minorias  e  as  políticas  publicas  frente  aos  direitos  fundamentais.Revista  Eletrônica  Direito  e  Política,        Itajaí,    v.2,    n.1,    1º    quadrimestre    de    2007.  Disponível em: www.univali.br/direitoepolitica - ISSN 1980-7791
+
+Rock Content. Acesso em 10 de setembro de 2023. Disponível em: https://rockcontent.com/br/blog/design-thinking/.
+
+Design Thinkers Academy. Acesso em 10 de setembro de 2023. Disponível em: https://www.designthinkersacademy.com/brazil/.
+
+Hostinger. O que é UX Design. Acesso em 12 de setembro de 2023. Disponível em: https://www.hostinger.com.br/tutoriais/o-que-e-ux-design/.
+
+FIA - Fundação Instituto de Administração. Metodologias Ágeis. Acesso em 13 de setembro de 2023. Disponível em: https://fia.com.br/blog/metodologias-ageis/.
+
+Rock Content. Metodologias Ágeis. Acesso em 13 de setembro de 2023. Disponível em: https://rockcontent.com/br/blog/metodologias-ageis/.
+
+Fundo Brasil. Edital Enfrentando o Racismo. Fundo Brasil. Acesso em 20 de setembro de 2023. https://www.fundobrasil.org.br/edital/enfrentandoracismo/.
+
+Agência de Notícias IBGE. IBGE mostra as cores da desigualdade. Acesso em 20 de setembro de 2023. Disponível em: https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/21206-ibge-mostra-as-cores-da-desigualdade.
+
+Guia do Estudante. Minorias Sociais: o que você precisa saber sobre o tema. Acesso em 20 de setembro de 2023. Disponível em: https://guiadoestudante.abril.com.br/atualidades/minorias-sociais-o-que-voce-precisa-saber-sobre-o-tema/.
+
+Politize!. O que são minorias? Acesso em 20 de setembro de 2023. Disponível em: https://www.politize.com.br/o-que-sao-minorias/.
  
 
 
