@@ -156,7 +156,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ## Wireframes
 
-> **Tela Principal**
+**Tela Principal**
 > ![Exemplo de Link para Wireframe](images/wireframPrincipal.png)
 
 **Biblioteca Pessoal**
