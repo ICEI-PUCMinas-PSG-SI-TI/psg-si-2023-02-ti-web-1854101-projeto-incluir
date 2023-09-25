@@ -39,7 +39,7 @@
 
 Na sociedade contemporânea, o mundo está em constante evolução, passando por mudanças progressivas e cada vez mais rápidas. Um exemplo claro disso é a revolução digital, que tem causado impactos significativos em diversos setores, bem como as revoluções sociais, que têm promovido transformações profundas na forma como os indivíduos se relacionam e se organizam como corpo social.
 
-Dessa forma, em uma sociedade que possui estruturas excludentes, o acesso de pessoas com deficiência (PCDs), neurodivergentes, LGBTQIA+ e pessoas não brancas aos ambientes comunitários pode se tornar um desafio significativo. Essa dificuldade resulta na violação de sua dignidade, bem-estar e direitos, sem que medidas efetivas sejam tomadas para resolver essas questões. Sendo assim, infelizmente, essa situação acaba gerando uma vulnerabilidade civil para esses grupos específicos, fato muito corriqueiro no Brasil que, segundo pesquisa “Os Perigos da Percepção”, realizada pelo instituto Ipsos, é o 5º colocado em novo ranking de "países mais ignorantes do mundo".
+Dessa forma, em uma sociedade que possui estruturas excludentes, o acesso de pessoas com deficiência (PCDs), neurodivergentes, LGBTQIA+ e pessoas não brancas aos ambientes comunitários pode se tornar um desafio significativo. Essa dificuldade resulta na violação de sua dignidade, bem-estar e direitos, sem que medidas efetivas sejam tomadas para resolver essas questões. Sendo assim, infelizmente, essa situação acaba gerando uma vulnerabilidade civil para esses grupos específicos, fato muito corriqueiro no Brasil que, segundo pesquisa “Os Perigos da Percepção”, realizada pelo instituto Ipsos, é o 6º colocado em novo ranking de "países mais ignorantes do mundo".
 
 Diante disso, torna-se imprescindível a união entre tecnologia e inclusão, buscando combater o preconceito e proporcionar que os sujeitos citados anteriormente não apenas desfrutem de sua cidadania, mas também desfrutem da diversidade e da convivência social, contribuindo para uma comunidade mais enriquecida em experiências e perspectivas. Portanto, é fundamental promover e apoiar iniciativas nesse sentido, representando um passo importante rumo à construção de um mundo mais inclusivo e acolhedor para todos.
 
@@ -193,6 +193,10 @@ Portanto, o site tem como objetivo facilitar o acesso seguro de pessoas em situa
  # Referências Bibliográficas
 
 BUENO,  Mariza  Schuster.  Direito  das  minorias  e  as  políticas  publicas  frente  aos  direitos  fundamentais.Revista  Eletrônica  Direito  e  Política,        Itajaí,    v.2,    n.1,    1º    quadrimestre    de    2007.  Disponível em: www.univali.br/direitoepolitica - ISSN 1980-7791
+
+Ipsos. Perigos da Percepção 2016. Acesso em 8 de setembro de 2023. Disponível em: https://www.ipsos.com/pt-br/perigos-da-percepcao-2016.
+
+Technological Revolutions and Societal Transitions. ETUI Research Paper - Foresight Brief #04-April 2018. Disponível em: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3180000. Acesso em 8 de setembro de 2023.
 
 Rock Content. Acesso em 10 de setembro de 2023. Disponível em: https://rockcontent.com/br/blog/design-thinking/.
 
