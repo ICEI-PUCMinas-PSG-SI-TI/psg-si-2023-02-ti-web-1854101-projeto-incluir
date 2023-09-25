@@ -70,9 +70,10 @@ Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (físic
 Entre as técnicas utilizadas no projeto, pode-se citar: DesignThinking, SCRUM
 Entre as ferramentas utilizadas no projeto, pode-se citar: Canva, Paint
 
-Acesse o documento abaixo para visualizar os Artefatos do Processo de Design Thinking (Matriz CSD, Mapa de Stakeholders, Diagrama de Personas, Mural de Possibilidades e Mapa de Priorização):
+Vizualize abaixo os Artefatos do Processo de Design Thinking (Matriz CSD, Mapa de Stakeholders, Diagrama de Personas, Mural de Possibilidades e Mapa de Priorização):
 
-----> ADCIONAR PDF AQUI<-----------
+![mapa de stakeholders](images/mapadesakehlders.jpg)
+![matriz de alinhamento](images/matrizdealinhamento.jpg)
 
 
 ## Personas
