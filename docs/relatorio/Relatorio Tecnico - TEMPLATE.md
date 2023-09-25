@@ -69,7 +69,7 @@ Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (físic
 Entre as técnicas utilizadas no projeto, pode-se citar: DesignThinking, SCRUM
 Entre as ferramentas utilizadas no projeto, pode-se citar: Canva, Paint
 
-Acesse o docmento abaixo para visualizar os Artefatos do Processo de Design Thinking:
+Acesse o documento abaixo para visualizar os Artefatos do Processo de Design Thinking (Matriz CSD, Mapa de Stakeholders, Diagrama de Personas, Mural de Possibilidades e Mapa de Priorização):
 
 ----> ADCIONAR PDF AQUI<-----------
 
@@ -184,8 +184,10 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Conclusões
 
-Em meados do século XXI, a sociedade vem se conscientizando sobre as práticas abusivas e discriminatórias com tratamentos excludentes as minorias. Mas,infelizmente, essa conscientização ainda vem a passos lentos e com isso o nosso projeto é usar o Syoko como ferramenta eficaz  para achar um caminho que assegure a proteção daqueles que se sentem inseguros em espaços de lazer. 
-Portanto,o site vem com o propósito de facilitar que as pessoas que se encaixam nesses lugares de vulnerabilidade tenham resguardado o seu direito constitucional de ir e vir em espaços públicos e privados em segurança e, principalmente, que se sintam pertencentes, acolhidos e que  suas experiências possam servir de referência para seus semelhantes.Sendo assim, elas terão mais segurança para frequentar espaços recomendados por usuários que ocupam o mesmo lugar de fala. 
+
+Em síntese, no contexto do século XXI, a sociedade está gravidamente se tornando mais consciente a respeito das práticas discriminatórias com as minorias. Entretanto, é evidente que esse processo de mudança está ocorrendo de forma lenta. Por isso, é nesse contexto que o projeto Syoko surge como uma ferramenta eficaz para garantir a proteção desses grupos minoritárs que se sentem inseguros nos espaços de lazer.
+
+Portanto, o site tem como objetivo facilitar o acesso seguro de pessoas em situação de vulnerabilidade aos espaços públicos e privados, garantindo seu direito constitucional de ir e vir. Além disso, busca promover um sentimento de pertencimento e acolhimento, utilizando as experiências dessas pessoas como referência para outros em situações semelhantes. Através da combinação de tecnologia e inclusão, o site proporcionará mais segurança ao recomendar espaços frequentados por usuários que compartilham a mesma vivência.
  
 
 
