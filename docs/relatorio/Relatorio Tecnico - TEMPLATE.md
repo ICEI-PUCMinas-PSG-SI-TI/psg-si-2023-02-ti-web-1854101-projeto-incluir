@@ -74,6 +74,7 @@ Acesse o documento abaixo para visualizar os Artefatos do Processo de Design Thi
 
 ----> ADCIONAR PDF AQUI<-----------
 
+
 ## Personas
 
 > 
@@ -151,36 +152,46 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 # Projeto da Solução
 
 ......  As tecnologias utilizadas serão: HTML, CSS, JAVASCRIPT, BOOTSTRAP, FIGMA, CANVA. ......
-> Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
+
 
 ## Wireframes
 
-> 
-> **Exemplo**:
-> 
+> **Tela Principal**
 > ![Exemplo de Link para Wireframe](images/wireframPrincipal.png)
 
+**Biblioteca Pessoal**
 > ![Exemplo de Link para Wireframe](images/fotodousuario.png)
 
+**Faça sua avaliação**
 > ![Exemplo de Link para Wireframe](images/avaliação.png)
+
+**Lista de Locais**
 > ![Exemplo de Link para Wireframe](images/locais.png)
+
+**Biblioteca de Amigos**
 > ![Exemplo de Link para Wireframe](images/Bibliotecaamg.png)
+
+**Sobre Nós**
 >  ![Exemplo de Link para Wireframe](images/sobrenos.png)
+
+**Contate-nos**
 >![Exemplo de Link para Wireframe](images/contato.jpg)
+
+**Termos de uso**
 > ![Exemplo de Link para Wireframe](images/termos.jpg)
+
+**Cadastro**
 >![Exemplo de Link para Wireframe](images/cadastro.jpg)
+
+**Guia do usuário**
 > >![Exemplo de Link para Wireframe](images/guia.jpg)
+
+**Editar Perfil**
 >![Exemplo de Link para Wireframe](images/editar-perfil.png)
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
-
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
-
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
+> **Diagrama de Navegação**
 > ![Exemplo de Diagrama de Navegação](images/mapa-de-navegacao.png)
 
 # Conclusões
