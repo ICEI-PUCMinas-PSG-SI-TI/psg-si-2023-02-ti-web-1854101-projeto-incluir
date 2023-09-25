@@ -61,16 +61,17 @@ Como objetivos específicos, pode-se destacar:
 
 Apesar do SkyoKo poder beneficiar toda a sociedade, o projeto tem como foco maior atingir indivíduos que enfrentam desafios significativos de inclusão e acessibilidade devido a barreiras sociais e estruturais.
 
-Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (física, mental, intelectual ou sensorial), os neurodivergentes (pessoas que têm um desenvolvimento ou funcionamento neurológico diferente do padrão), os membros da comunidade LGBTQIA+ (Lésbicas, Gays, Bissexuais, Transgêneros, Queer, Questionando, Intersexuais, Assexuais,+) e as pessoas não-brancas (indigenas, amarelos e pretos). Ademais, considera-se que esse público tenha acesso à internet e esteja familiarizado com o acesso à aplicações web, não sendo necessário um conhecimento tecnológico aprofundado pois o software tem o objetivo de ser de fácil uso.
+Dessa maneira, firmou-se como público- alvo as pessoas com deficiência (física, mental, intelectual ou sensorial), os neurodivergentes (pessoas que têm um desenvolvimento ou funcionamento neurológico diferente do padrão), os membros da comunidade LGBTQIA+ (Lésbicas, Gays, Bissexuais, Transgêneros, Queer, Questionando, Intersexuais, Assexuais,+) e as pessoas não-brancas (indigenas, amarelos e pretos). Ademais, considera-se que esse público eesteja localizado em Belo Horizonte ou na regão metropolitana, tenha acesso à internet e esteja familiarizado com o acesso à aplicações web, não sendo necessário um conhecimento tecnológico aprofundado pois o software tem o objetivo de ser de fácil uso.
 
 
 # Especificações do Projeto
 
-......  As tecnicas e ferramentas utilizadas no projeto foram: DesignThinking, SCRUM. ......
+Entre as técnicas utilizadas no projeto, pode-se citar: DesignThinking, SCRUM
+Entre as ferramentas utilizadas no projeto, pode-se citar: Canva, Paint
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Acesse o docmento abaixo para visualizar os Artefatos do Processo de Design Thinking:
+
+----> ADCIONAR PDF AQUI<-----------
 
 ## Personas
 
