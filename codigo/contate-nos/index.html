@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="assets/style.css" rel="stylesheet">
+    <title>Contate-nos</title>
+    
+</head>
+
+
+<body>
+
+    <header>
+        <nav class="nav-bar">
+            <div class="logo">
+                <img src="assets/logo2.jpeg" alt="Logo" width="200" height="200">
+            </div>
+
+            <div class="nav-list">
+                <ul>
+                    <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Locais</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link">Sobre nós</a></li>
+                </ul>
+            </div>
+
+            <div class="button-list">
+                <ul>
+                    <li class="button-item">
+                        <div class="register-button">
+                            <button><a href="#">Cadastre-se</a></button>
+                        </div>
+                    </li>
+                    <li class="button-item">
+                        <div class="login-button">
+                            <button><a href="#">Entrar</a></button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="mobile-menu-icon">
+                <button onclick="menuShow()"><img class="icon" src="menu_white_36dp.svg" alt=""></button>
+            </div>
+        </nav>
+
+        <div class="mobile-menu">
+            <ul>
+                <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Locais</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Sobre nós</a></li>
+                <li class="nav-item"><a href="#" class="nav-link">Contatos</a></li>
+            </ul>
+
+            <div class="login-button">
+                <button><a href="#">Entrar</a></button>
+            </div>
+            
+        </div>
+        
+    </header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="profile-container">
+    <img id="profile-image" src="assets/logo2.jpeg" alt="Imagem do Perfil">
+ </div>
+   
+
+    <div class="s-m">
+        <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.facebook.com"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://web.whatsapp.com/"><i class="fa-solid fa-phone"></i></a>
+        <a href="https://www.google.com"><i class="fa-brands fa-google"></i></a>
+    </div>
+
+   
+
+    <footer>
+        <div class="container">
+            <ul>
+                <h2>Syoko</h2>
+                <p>Vá sempre em lugares onde <br> é querido(a) e bem vindo(a).</p>
+
+                <div class="redes-sociais">
+                    <a href="#"><img src="assets/facebook(1).svg" alt="facebook"></a>
+                    <a href="#"><img src="assets/twitter-x.svg" alt="twitter-x"></a>
+                    <a href="#"><img src="assets/instagram.svg" alt="instagram"></a>
+                    <a href="#"><img src="assets/linkedin.svg" alt="linkedin"></a>
+                </div>
+
+            </ul>
+
+            <ul>
+
+                <h2>Contatos</h2>
+                <li>
+                    <p>+55 3456-1238</p>
+                </li>
+                <li>
+                    <p>Syoko.of@gmail.com</p>
+                </li>
+                <li>
+                    <p>Brasil</p>
+                </li>
+            </ul>
+        </div>
+
+        <div class="footer-copyright">
+            &#169
+            2023 all rights reserved
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+<script src="https://kit.fontawesome.com/92cfa48724.js" crossorigin="anonymous"></script>
+
+
+
+<script>
+function menuShow() {
+    var mobileMenu = document.querySelector('.mobile-menu');
+    mobileMenu.classList.toggle('open');
+
+    var navBar = document.querySelector('.nav-bar');
+    navBar.classList.toggle('open');
+
+    var icon = document.querySelector('.icon');
+    icon.src = mobileMenu.classList.contains('open') ? "close_white_36dp.svg" : "assets/menu_white_36dp.svg";
+}
+
+</script>
+
+
+
+</body>
+
+
+
+
+</html>
