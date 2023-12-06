@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/* cor da navbar*/
+.navbar {
+  background-color: #1391d2;
+}
+
+/* Estilos para o texto "Termos de Serviço" */
+.navbar-brand {
+  color: white;
+}
+
+.espaco-branco { /* espaço antes do botão */
+      padding: 10px; 
+      border: 1px solid white; 
+    }
+
+.white-text { /* cor do texto do botão */
+  color: white;
+}
+
