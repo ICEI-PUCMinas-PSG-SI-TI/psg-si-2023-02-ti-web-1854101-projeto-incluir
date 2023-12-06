@@ -1,0 +1,58 @@
+[
+
+    {
+        "nome": "Lagoa da Pampulha",
+        "Imagem": "assets/img/pampulha.jpg"
+    },
+    {
+        "nome": "Mineirão",
+        "Imagem": "assets/img/mioneirao.jpg"
+    },
+    {
+        "nome": "Minas Shopping",
+        "Imagem": "assets/img/shopping.jpg"
+    },
+    {
+        "nome": "Pizzaria Guarani",
+        "Imagem": "assets/img/guarani.jpg"
+    },
+    
+    
+    {
+        "nome": "Praça do Papa",
+        "Imagem": "assets/img/papa.jpg"
+    },
+    {
+        "nome": "Clube Chalezinho",
+        "Imagem": "assets/img/chalezinho.webp"
+    },
+    {
+        "nome": "Cinema",
+        "Imagem": "assets/img/cineart.jpg"
+    },
+    {
+        "nome": "Lifebox",
+        "Imagem": "assets/img/lifebox.webp"
+    },
+    
+    
+    
+    {
+        "nome": "Igreja Batista da Lagoinha",
+        "Imagem": "assets/img/lagoinha.jpg"
+    },
+    {
+        "nome": "Rei do Pastel",
+        "Imagem": "assets/img/pastel.jpg"
+    },
+    {
+        "nome": "DDuck DClub",
+        "Imagem": "assets/img/dblub.jpg"
+    },
+    {
+        "nome": "Sushi japa",
+        "Imagem": "assets/img/japa.jpg"
+    }
+    
+    
+    ]
