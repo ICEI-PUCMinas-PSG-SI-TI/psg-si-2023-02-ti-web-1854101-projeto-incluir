@@ -46,16 +46,20 @@ Diante disso, torna-se imprescindível a união entre tecnologia e inclusão, bu
 
 ## Problema
 
-Conforme foi apresentado, o problema central reside na exclusão enfrentada pelos grupos marginalizados, como a comunidade LGBTQIA +, PCDs, mulheres e pessoas não brancas. Essa exclusão é causada pela falta de acessibilidade e pela persistência do preconceito em locais públicos e privados. Como resultado, esses grupos são severamente limitados em sua participação plena na sociedade, o que reduz a igualdade e aumenta a inclusão em espaços de lazer, como bares, restaurantes, baladas e demais ambientes que visam interação social.
+Conforme evidenciado pelo Laboratório das Desigualdades Mundiais, o Brasil ocupa a segunda posição em desigualdade entre os países do G20. Essa desigualdade é especialmente sentida pelos grupos marginalizados, incluindo a comunidade LGBTQIA+, pessoas com deficiência (PCDs), mulheres e indivíduos não brancos. Tais grupos enfrentam barreiras decorrentes da falta de acessibilidade e da persistência do preconceito em ambientes públicos e privados. Essa exclusão os priva da participação plena na sociedade, reduzindo a igualdade de oportunidades e limitando sua presença em espaços de lazer, como bares, restaurantes, baladas e outros locais voltados para a interação social.
+
+Esses desafios, oriundos da desigualdade e da falta de acessibilidade, impactam diretamente a participação e o envolvimento desses grupos na esfera social, contribuindo para a perpetuação da exclusão e restringindo seu acesso a ambientes que deveriam ser igualmente acessíveis a todos os membros da sociedade.
 
 
 ## Objetivos
 
-O objetivo central do Syoko é ampliar a experiência de grupos marginalizados em ambientes públicos e privados, promovendo assim a inclusão e acessibilidade. Esse objetivo será cumprido por meio de aplicações de avaliação, a fim de incluir e priorizar as necessidades de lazer dos usuários, que são muitas vezes negligenciadas pela sociedade. Por esse motivo, o Syoko permitirá que os usuários avaliem e critiquem ativamente estabelecimentos, contribuindo para a priorização das necessidades de lazer desses grupos e tornando a vida cívica mais democrática e igualitária.
+O propósito central do Syoko é aprimorar a experiência dos grupos marginalizados em ambientes públicos e privados, fomentando a inclusão e a acessibilidade. Esse objetivo será alcançado por meio de recursos de avaliação, visando integrar e priorizar as necessidades de lazer dos usuários, muitas vezes ignoradas pela sociedade. O Syoko capacitará os usuários para avaliar e criticar ativamente estabelecimentos, contribuindo para a priorização das necessidades de lazer desses grupos e promovendo uma participação mais democrática e igualitária na vida cívica.
 
-Como objetivos específicos, pode-se destacar:
-- Facilitar a avaliação ativa: fornecer funcionalidades que o usuário avalie e critique os estabelecimentos de forma acessível e intuitiva;
-- Fomentar a comunidade: permitir ao usuário armazenar, ordenar compartilhar as suas avaliações, checar os locais que a(s) comunidade(s) recomendam e assim contribuir para que outros usuários também tenham essa experiência.
+Para atingir esses objetivos, destacamos:
+
+- Facilitação da avaliação ativa: Oferecimento de funcionalidades intuitivas para que os usuários avaliem e critiquem estabelecimentos de forma acessível.
+-Promoção da comunidade: Capacitação dos usuários para armazenar suas avaliações, permitindo que a comunidade recomende locais e enriqueça a experiência de outros usuários.
+
 
   
 ## Público-Alvo
@@ -95,11 +99,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |    LIA SIQUEIRA    | Avaliar estabelecimentos visitados | Saber onde será agradável e seguro de  |
 |                    |                                    | visitar                                |
 |--------------------|------------------------------------|----------------------------------------|
-|    CAIO MARTIN     | Ter uma biblioteca pessoal de      | Manter um histórico dos lugares favori-|
-|                    | locais melhores avaliados          | tos e lugares que não gostou           |
+|    CAIO MARTIN     | Ver a avaliação de outras pessoas  | Interagir com a comunidade             |
+|                    |                                    |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|    LUIZA LIMA      | Ter um espaço de "reclame aqui"    | Para poder participar com voz ativa na | 
-|                    |                                    | plataforma e reportar possíveis erros  | 
+|    LUIZA LIMA      | Ter um espaço que ensine a navegar | Para poder participar e não ter        | 
+|                    | pelo site                          | dificuldades tecnológicas              | 
 |--------------------|------------------------------------|----------------------------------------|
 |    LUIZA LIMA      | Ter um perfil pessoal que torne    | Para maior usabilidade e               |
 |                    | possin fazer *login*/*logoff*      | individualização do usuário            |          
@@ -107,8 +111,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |    JOÃO SILVA      | Poder pesquisar locais com filtro  | Para otimização da pesquisa            |
 |                    | de tipos de estabelecimento        |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|    JOÃO SILVA      | Poder ver o grafico de fluxo de    | Para melhor usabilidade e              |
-|                    | pessoas do estabelecimento         |                                        |
+|    JOÃO SILVA      | Poder comentar a respeito de um    | Para melhor usabilidade                |
+|                    | local                              |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 
 
@@ -123,16 +127,16 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário crie uma conta pessoal.                              | ALTA | 
 |RF-002| Deve permitir que o usuário faça login.                                     | ALTA |
-|RF-003| Deve ter uma biblioteca pessoal para o usuário cadastrado.                  | ALTA |
-|RF-004| Deve ter a opção de editar os elementos da biblioteca.                      | ALTA |
-|RF-005| Deve ter um filtro de estabelecimento por classificação.                    | ALTA |
-|RF-009| Deve ter um sistema de avaliação por nota e comentário                      | ALTA |
+|RF-003| Permitir a edição de elementos marcados como favoritos.                  | ALTA |
+|RF-004| Incluir filtro por classificação para estabelecimentos..                      | ALTA |
+|RF-005| Implementar sistema de avaliação com nota e comentários.	                    | ALTA |
+|RF-009| Integrar funcionalidade de compartilhamento em redes sociais.                      | ALTA |
 |RF-010| Deve dar a possibilidade ao usuário de visitar paginas de outros usuários.  | ALTA |
 |RF-006| Deve ser permitido compartilhar perfis de estabelecimentos em redes sociais.| MÉDIA| 
-|RF-007| A biblioteca deve armazenar uma lista de desejos.                           | MÉDIA|
-|RF-008| A biblioteca deve ter um histórico de locais avaliados pelo usuário.        | MÉDIA|
-|RF-011| A biblioteca deve armazenar uma lista de lugares mais mal avaliados.        | BAIXA|
-|RF-012| Deve permitir o usuário fazer comentários e avaliações em tempo real.       | BAIXA|
+|RF-007| Integrar informações dos estabelecimentos com serviços de mapas para facilitar a localização e direções.                           | MÉDIA|
+|RF-008| Oferecer a opção de deixar feedback de forma anônima para encorajar opiniões sinceras e objetivas.        | MÉDIA|
+|RF-011| Oferecer a opção de deixar feedback de forma anônima para encorajar opiniões sinceras e objetivas.        | BAIXA|
+|RF-012| Implementar uma área de interação direta entre os usuários para compartilhar experiências, dicas e fazer perguntas.       | BAIXA|
 
 ### Requisitos Não Funcionais
 
