@@ -164,11 +164,11 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 **Tela Principal**
 > ![Exemplo de Link para Wireframe](images/principall.jpeg)
 
-**Biblioteca Pessoal**
-> ![Exemplo de Link para Wireframe](images/fotodousuario.png)
+**local**
+> ![Exemplo de Link para Wireframe](images/façasua.PNG)
 
 **Faça sua avaliação**
-> ![Exemplo de Link para Wireframe](images/façasua.PNG)
+> ![Exemplo de Link para Wireframe](images/avalalie.PNG)
 
 **Lista de Locais**
 > ![Exemplo de Link para Wireframe](images/locais.PNG)
