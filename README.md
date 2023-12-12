@@ -26,6 +26,7 @@ O objetivo principal do projeto Syoko é diminuir a exclusão e a lacuna de aces
 * link da apresentação: (https://www.canva.com/design/DAF2OS0BhiY/nVY3uy4jw4sv1RIfWDElOA/view?utm_content=DAF2OS0BhiY&utm_campaign=designshare&utm_medium=link&utm_source=editor#10)
 
 ## Instruções para uso
+Para acessar o Código Fonte do projeto acesse o link: (https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-syoko/tree/master/codigo)
 
 Para acessar a documentação do projeto acesse o link abaixo:
 [Documentação do Projeto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-projeto-incluir/tree/master/docs#documenta%C3%A7%C3%A3o-do-projeto)
@@ -34,7 +35,7 @@ Caso queira acessar direto o relatório técnico, acesse link abaixo:
 * Relatório Técnico [Clique aqui para acesssar](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-projeto-incluir/blob/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md)
 
 Para acessar uma informção específica do relatório técnico, escolha dentre as opções abaixo e acesse o link desejado:
--[Código Fonte do Projeto](#codigo)
+
 
 - [Informações do Projeto](#informações-do-projeto)
   - [Participantes](#participantes)
