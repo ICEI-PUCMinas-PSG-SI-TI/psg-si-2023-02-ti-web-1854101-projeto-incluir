@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Clube Chalezinho",
+        "image": "",
+        "category": "balada",
+        "instagram": "http://instagram.com/_clubechalezinho"
+    },
+    {
+        "id": 2,
+        "title": "Minas Shopping",
+        "image": "",
+        "category": "publico",
+        "instagram": "https://www.instagram.com/minas_shopping"
+    },
+    {
+        "id": 3,
+        "title": "Saruê",
+        "image": "",
+        "category": "bar",
+        "instagram": "https://www.instagram.com/saruebh/"
+    },
+    {
+        "id": 4,
+        "title": "Gis club",
+        "image": "",
+        "category": "balada",
+        "instagram": "https://www.instagram.com/gismais/"
+    },
+    {
+        "id": 5,
+        "title": "Lagoa da Pampulha",
+        "image": "",
+        "category": "publico",
+        "instagram": "https://soubh.uai.com.br/estabelecimentos/sem-categoria/lagoa-da-pampulha"
+    },
+    {
+        "id": 6,
+        "title": "Amadis",
+        "image": "",
+        "category": "publico",
+        "instagram": "https://www.instagram.com/amadisbar/"
+    },
+    {
+        "id": 7,
+        "title": "Major Lock",
+        "image": "",
+        "category": "balada",
+        "instagram": "https://www.instagram.com/majorlockpub/"
+    },
+    {
+        "id": 8,
+        "title": "Mineirão",
+        "image": "",
+        "category": "publico",
+        "instagram": "https://www.instagram.com/mineirao/"
+    },
+    {
+        "id": 9,
+        "title": "Piratas",
+        "image": "",
+        "category": "bar",
+        "instagram": "https://www.instagram.com/piratasbbq/"
+    }
+]

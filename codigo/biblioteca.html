@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="biblioteca.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+
+</head>
+
+<body>
+  <header>
+    <nav class="nav-bar">
+      <div class="logo">
+        <img src="img/logo2.jpg" alt="Logo" width="200" height="200">
+      </div>
+
+      <div class="nav-list">
+        <ul>
+          <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+          <li class="nav-item"><a href="locais.html" class="nav-link">Locais</a></li>
+          <li class="nav-item"><a href="sobre-nos.html" class="nav-link">Sobre nós</a></li>
+          <li class="nav-item"><a href="termos-de-uso.html" class="nav-link">Termos de Uso</a></li>
+        </ul>
+      </div>
+
+      <div class="button-list">
+        <ul>
+          <li class="button-item">
+            <div class="register-button">
+              <button><a href="cadastro.html">Cadastre-se</a></button>
+            </div>
+          </li>
+          <li class="button-item">
+            <div class="login-button">
+              <button><a href="login .html">Entrar</a></button>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="mobile-menu-icon">
+        <button onclick="menuShow()"><img class="icon" src="img/menu_white_36dp.svg" alt=""></button>
+      </div>
+    </nav>
+
+    <div class="mobile-menu">
+      <ul>
+        <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+        <li class="nav-item"><a href="locais.html" class="nav-link">Locais</a></li>
+        <li class="nav-item"><a href="sobre-nos.html" class="nav-link">Sobre nós</a></li>
+        <li class="nav-item"><a href="termos-de-uso.html" class="nav-link">Termos de Uso</a></li>
+      </ul>
+
+      <div class="login-button">
+        <button><a href="#">Entrar</a></button>
+      </div>
+
+    </div>
+
+  </header>
+
+
+
+  <aside class="sidebar responsive-sidebar">
+
+    <div class="perfil">
+      <img src="img/Kevin.jpg" alt="Foto de Perfil">
+    </div>
+    <ul class="sidebar-menu">
+      <li class="sidebar-item"><a href="C:\Users\gabri\Downloads\syoko\editPerfil.html">Perfil</a></li>
+      <li class="sidebar-item"><a href="#">Curtidos</a></li>
+      <li class="sidebar-item"><a href="#">Não Curtidos</a></li>
+      <li class="sidebar-item"><a href="#">Quero Visitar</a></li>
+    </ul>
+
+
+    <button class="close-sidebar-button" onclick="toggleSidebar()">
+
+
+      <i class="fas fa-times"></i> fechar
+    </button>
+
+  </aside>
+  <button class="open-sidebar-button" onclick="toggleSidebar()">
+    <i class="fas fa-bars"></i>
+  </button>
+
+
+
+  <main>
+    <div id="lugares-container" class="container">
+    </div>
+  </main>
+
+
+
+  <footer>
+    <div class="container">
+      <ul>
+        <h2>Syoko</h2>
+        <p>Vá sempre em lugares onde <br> é querido(a) e bem vindo(a).</p>
+
+        <div class="redes-sociais">
+          <a href="#"><img src="img/facebook.svg" alt="facebook"></a>
+          <a href="#"><img src="img/twitter-x.svg" alt="twitter-x"></a>
+          <a href="#"><img src="img/instagram.svg" alt="instagram"></a>
+          <a href="#"><img src="img/linkedin.svg" alt="linkedin"></a>
+        </div>
+
+      </ul>
+
+      <ul>
+
+        <h2>Contatos</h2>
+        <li>
+          <p>+55 3456-1238</p>
+        </li>
+        <li>
+          <p>Syoko.of@gmail.com</p>
+        </li>
+        <li>
+          <p>Brasil</p>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-copyright">
+      &#169
+      2023 all rights reserved
+    </div>
+  </footer>
+
+
+  <script src="biblioteca.js"></script>
+</body>
+
+</html>

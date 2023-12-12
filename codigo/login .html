@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="login.css">
+  <title>Login</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="form-image">
+      <img src="img/imglogin.svg">
+    </div>
+    <div class="form">
+      <form id="loginForm">
+        <div class="form-header">
+          <div class="title">
+            <h1>Login</h1>
+          </div>
+
+          <div class="register-button">
+            <button><a href="cadastro.html">Cadastre-se</a></button>
+          </div>
+        </div>
+
+        <div class="input-group">
+          <div class="input-box">
+            <label for="email">E-mail</label>
+            <input id="email" type="email" name="email" placeholder="Digite seu email" required>
+          </div>
+
+          <div class="input-box">
+            <label for="password">Senha</label>
+            <input id="password" type="password" name="password" placeholder="Digite sua senha" required>
+          </div>
+        </div>
+
+        <div class="continue-button">
+          <button type="button" onclick="validarLogin()">Entrar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    function validarLogin() {
+      var email = document.getElementById('email').value;
+      var password = document.getElementById('password').value;
+
+      // localStorage
+      var userData = JSON.parse(localStorage.getItem('userData'));
+
+
+      if (userData && userData.email === email && userData.password === password) {
+        alert("Login bem-sucedido! Redirecionando para a página principal...");
+        // Redireciona para a página principal após o login
+        window.location.href = "index.html";
+      } else {
+        alert("Credenciais inválidas. Por favor, verifique seu email e senha.");
+      }
+    }
+  </script>
+</body>
+
+</html>

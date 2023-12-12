@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Termos Syoko</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <nav class="nav-bar">
+      <div class="logo">
+        <img src="img/logo2.jpg" alt="Logo" width="200" height="200">
+      </div>
+
+      <div class="nav-list">
+        <ul>
+          <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+          <li class="nav-item"><a href="locais.html" class="nav-link">Locais</a></li>
+          <li class="nav-item"><a href="sobre-nos.html" class="nav-link">Sobre nós</a></li>
+          <li class="nav-item"><a href="termos-de-uso.html" class="nav-link">Termos de Uso</a></li>
+
+        </ul>
+      </div>
+
+      <div class="button-list">
+        <ul>
+          <li class="button-item">
+            <div class="register-button">
+              <button><a href="cadastro.html">Cadastra-se</a></button>
+            </div>
+          </li>
+          <li class="button-item">
+            <div class="login-button">
+              <button><a href="login%20.html">Entrar</a></button>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="mobile-menu-icon">
+        <button onclick="menuShow()"><img class="icon" src="img/menu_white_36dp.svg" alt=""></button>
+      </div>
+    </nav>
+
+    <div class="mobile-menu">
+      <ul>
+        <li class="nav-item"><a href="index.html" class="nav-link">Início</a></li>
+        <li class="nav-item"><a href="locais.html" class="nav-link">Locais</a></li>
+        <li class="nav-item"><a href="sobre-nos.html" class="nav-link">Sobre nós</a></li>
+        <li class="nav-item"><a href="termos-de-uso.html" class="nav-link">Termos de Uso</a></li>
+      </ul>
+
+
+      <div class="login-button">
+        <button><a href="http://127.0.0.1:5500/projeto1/login.html">Entrar</a></button>
+      </div>
+
+    </div>
+
+
+  </header>
+  <!-- Barra de navegação -->
+  <nav class="navbar" style="background-color: #1391d2;">
+    <div class="container-fluid">
+      <span class="navbar-brand mb-0 h1" style="color: white;">Termos Syoko</span>
+    </div>
+  </nav>
+
+  <!-- Conteúdo principal -->
+  <div class="container mt-4">
+    <div class="row">
+      <!-- Coluna dos termos de serviço -->
+      <div class="col-md-6">
+        <h2>Termos de Serviço</h2>
+        <div class="accordion" id="accordionFlushExample">
+          <!-- Termos -->
+          <!-- Termo 1 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                Uso do Software
+              </button>
+            </h2>
+            <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Ao utilizar o Syoko, você concorda em utilizar a plataforma de forma
+                responsável, respeitando outros usuários e contribuindo com avaliações e comentários precisos e
+                pertinentes.</div>
+            </div>
+          </div>
+
+          <!-- Termo 2 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                Conteúdo do Usuário
+              </button>
+            </h2>
+            <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Ao fornecer avaliações e compartilhar informações, você concorda em não
+                publicar conteúdo falso, ofensivo, difamatório ou prejudicial. Portanto, reservamo-nos o direito de
+                remover qualquer conteúdo que viole esses princípios.</div>
+            </div>
+          </div>
+
+          <!-- Termo 3 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                Responsabilidades do Usuário
+              </button>
+            </h2>
+            <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">O Syoko não se responsabiliza por avaliações imprecisas ou por quaisquer danos
+                resultantes do uso das informações compartilhadas na plataforma.</div>
+            </div>
+          </div>
+
+          <!-- Termo 4 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                Modificações e Atualizações
+              </button>
+            </h2>
+            <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Estes termos podem ser atualizados periodicamente. Notificaremos os usuários
+                sobre quaisquer alterações significativas nos termos.</div>
+            </div>
+          </div>
+
+          <!-- Termo 5 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                Encerramento de Conta
+              </button>
+            </h2>
+            <div id="flush-collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Reservamo-nos o direito de suspender ou encerrar contas que violem estes
+                termos ou que apresentem comportamento inadequado.</div>
+            </div>
+          </div>
+
+          <!-- Termo 6 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                Proteção de Dados
+              </button>
+            </h2>
+            <div id="flush-collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+              <div class="accordion-body">Comprometemo-nos a proteger os dados dos usuários. Saiba mais em nossa
+                política de Privacidade!</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Coluna da política de privacidade -->
+      <div class="col-md-6">
+        <h2>Política de Privacidade</h2>
+        <div class="accordion" id="privacyAccordion">
+          <!-- Política de privacidade -->
+          <!-- Item 1 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#privacy-collapseOne" aria-expanded="false" aria-controls="privacy-collapseOne">
+                Como coletamos informações
+              </button>
+            </h2>
+            <div id="privacy-collapseOne" class="accordion-collapse collapse" data-bs-parent="#privacyAccordion">
+              <div class="accordion-body">O Syoko coleta informações fornecidas voluntariamente pelos usuários, como
+                avaliações, comentários e dados de perfil. Estas informações são utilizadas para melhorar a experiência
+                do usuário na plataforma.</div>
+            </div>
+          </div>
+
+          <!-- Item 2 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#privacy-collapseTwo" aria-expanded="false" aria-controls="privacy-collapseTwo">
+                Uso das informações coletadas
+              </button>
+            </h2>
+            <div id="privacy-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#privacyAccordion">
+              <div class="accordion-body">As informações coletadas são usadas para operar e aprimorar o Syoko,
+                personalizando a experiência do usuário e facilitando a interação na plataforma.</div>
+            </div>
+          </div>
+
+          <!-- Item 3 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#privacy-collapseThree" aria-expanded="false" aria-controls="privacy-collapseThree">
+                Compartilhamento de informações
+              </button>
+            </h2>
+            <div id="privacy-collapseThree" class="accordion-collapse collapse" data-bs-parent="#privacyAccordion">
+              <div class="accordion-body">As avaliações e comentários compartilhados na plataforma serão visíveis para
+                outros usuários. Não compartilhamos informações pessoais identificáveis dos usuários sem seu
+                consentimento.</div>
+
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#privacy-collapseFour" aria-expanded="false" aria-controls="privacy-collapseFour">
+                Armazenamento de informações
+              </button>
+            </h2>
+            <div id="privacy-collapseFour" class="accordion-collapse collapse" data-bs-parent="#privacyAccordion">
+              <div class="accordion-body">Comprometemo-nos a armazenar as informações dos usuários de forma segura,
+                implementando medidas para proteger esses dados contra acessos não autorizados ou uso indevido.</div>
+            </div>
+          </div>
+
+          <!-- Item 5 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#privacy-collapseFive" aria-expanded="false" aria-controls="privacy-collapseFive">
+                Cookies e rastreamento
+              </button>
+            </h2>
+            <div id="privacy-collapseFive" class="accordion-collapse collapse" data-bs-parent="#privacyAccordion">
+              <div class="accordion-body">O Syoko utiliza cookies e tecnologias similares para melhorar a experiência do
+                usuário. Os usuários têm a opção de gerenciar as configurações de cookies em seus navegadores.</div>
+            </div>
+          </div>
+
+          <!-- Item 6 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#privacy-collapseSix" aria-expanded="false" aria-controls="privacy-collapseSix">
+                Consentimento e permissões
+              </button>
+            </h2>
+            <div id="privacy-collapseSix" class="accordion-collapse collapse" data-bs-parent="#privacyAccordion">
+              <div class="accordion-body">Ao utilizar a plataforma Syoko, os usuários concedem consentimento para a
+                coleta e utilização de suas informações de acordo com esta Política de Privacidade.</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+  <!-- Mapa -->
+  <div class="row mt-4">
+    <div class="col-md-12">
+      <div class="text-center">
+        <h2>Localidade</h2>
+        <div class="text-center">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240097.52707012597!2d-44.1288661008179!3d-19.902317562865175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa690cacacf2c33%3A0x5b35795e3ad23997!2sBelo%20Horizonte%2C%20MG!5e0!3m2!1spt-BR!2sbr!4v1700429502767!5m2!1spt-BR!2sbr"
+            width="1110" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <form action="https://www.google.com/maps/search/" method="get" target="_blank">
+            <input type="text" name="q" placeholder="Digite o local...">
+            <input type="submit" value="Pesquisar">
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="espaco-branco">
+
+    .
+  </div>
+
+  <div class="col-md-12">
+    <div class="text-center">
+      <button id="botao-toggle" type="button" class="btn btn-info white-text">Conheça nosso objetivo</button>
+      <!-- botão -->
+      <div id="informacoes-projeto" style="display: none;"></div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <ul>
+        <h2>Syoko</h2>
+        <p>Vá sempre em lugares onde <br> é querido(a) e bem vindo(a).</p>
+
+        <div class="redes-sociais">
+          <a href="#"><img src="img/facebook.svg" alt="facebook"></a>
+          <a href="#"><img src="img/twitter-x.svg" alt="twitter-x"></a>
+          <a href="#"><img src="img/instagram.svg" alt="instagram"></a>
+          <a href="#"><img src="img/linkedin.svg" alt="linkedin"></a>
+        </div>
+
+      </ul>
+
+      <ul>
+
+        <h2>Contatos</h2>
+        <li>
+          <p>+55 3456-1238</p>
+        </li>
+        <li>
+          <p>Syoko.of@gmail.com</p>
+        </li>
+        <li>
+          <p>Brasil</p>
+        </li>
+      </ul>
+    </div>
+
+    <div class="footer-copyright">
+      &#169
+      2023 all rights reserved
+    </div>
+  </footer>
+
+
+  <!-- JavaScript-->
+  <script src="termos-de-uso.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous"></script>
+
+
+</body>
+
+</html>
