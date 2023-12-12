@@ -162,7 +162,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 ## Wireframes
 
 **Tela Principal**
-> ![Exemplo de Link para Wireframe](images/wireframPrincipal.png)
+> ![Exemplo de Link para Wireframe](images/principall.jpeg)
 
 **Biblioteca Pessoal**
 > ![Exemplo de Link para Wireframe](images/fotodousuario.png)
