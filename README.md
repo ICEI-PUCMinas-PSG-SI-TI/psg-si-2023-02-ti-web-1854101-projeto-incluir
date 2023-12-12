@@ -20,8 +20,10 @@ O objetivo principal do projeto Syoko é diminuir a exclusão e a lacuna de aces
 
 * Felipe Augusto Lima Reis
 
-## Quadro de tarefas
-Coloque aqui o link para acesso do Kanban do projeto, seja ele no GitHub ou em outra plataforma.
+## Link para os itens da sprint 4
+link do replit: https://replit.com/@saramarcal/Syoko
+link do video: https://www.youtube.com/watch?v=XdExoJaVtwY
+link da apreentação: https://www.canva.com/design/DAF2OS0BhiY/nVY3uy4jw4sv1RIfWDElOA/view?utm_content=DAF2OS0BhiY&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Instruções para uso
 
