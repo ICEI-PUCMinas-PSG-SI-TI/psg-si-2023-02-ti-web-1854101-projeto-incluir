@@ -168,25 +168,25 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > ![Exemplo de Link para Wireframe](images/fotodousuario.png)
 
 **Faça sua avaliação**
-> ![Exemplo de Link para Wireframe](images/avaliação.png)
+> ![Exemplo de Link para Wireframe](images/façasua.PNG)
 
 **Lista de Locais**
-> ![Exemplo de Link para Wireframe](images/locais.png)
+> ![Exemplo de Link para Wireframe](images/locais.PNG)
 
 **Biblioteca de Amigos**
 > ![Exemplo de Link para Wireframe](images/Bibliotecaamg.png)
 
 **Sobre Nós**
->  ![Exemplo de Link para Wireframe](images/sobrenos.png)
+>  ![Exemplo de Link para Wireframe](images/sobrenoss.PNG)
 
 **Contate-nos**
 >![Exemplo de Link para Wireframe](images/contato.jpg)
 
 **Termos de uso**
-> ![Exemplo de Link para Wireframe](images/termos.jpg)
+> ![Exemplo de Link para Wireframe](images/termosdeusoo.PNG)
 
 **Cadastro**
->![Exemplo de Link para Wireframe](images/cadastro.jpg)
+>![Exemplo de Link para Wireframe](images/cadastre-se.jpeg)
 
 **Guia do usuário**
 > >![Exemplo de Link para Wireframe](images/guia.jpg)
