@@ -180,7 +180,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 >  ![Exemplo de Link para Wireframe](images/sobrenoss.PNG)
 
 **Contate-nos**
->![Exemplo de Link para Wireframe](images/contato.jpg)
+>![Exemplo de Link para Wireframe](images/contate-nos.PNG)
 
 **Termos de uso**
 > ![Exemplo de Link para Wireframe](images/termosdeusoo.PNG)
@@ -189,7 +189,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 >![Exemplo de Link para Wireframe](images/cadastre-se.jpeg)
 
 **Guia do usuário**
-> >![Exemplo de Link para Wireframe](images/guia.jpg)
+> >![Exemplo de Link para Wireframe](images/guiaa.PNG)
 
 **Editar Perfil**
 >![Exemplo de Link para Wireframe](images/editar-perfil.png)
