@@ -27,6 +27,7 @@ O objetivo principal do projeto Syoko é diminuir a exclusão e a lacuna de aces
 
 ## Instruções para uso
 Para acessar o Código Fonte do projeto acesse o link: (https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-syoko/tree/master/codigo)
+Para acessar o Código Fonte do projeto zipado, acesse o link: (https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-syoko/blob/master/codigo/Syoko.zip)
 
 Para acessar a documentação do projeto acesse o link abaixo:
 [Documentação do Projeto](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-02-ti-web-1854101-projeto-incluir/tree/master/docs#documenta%C3%A7%C3%A3o-do-projeto)
