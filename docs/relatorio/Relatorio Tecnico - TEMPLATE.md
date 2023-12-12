@@ -204,7 +204,15 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 Em síntese, no contexto do século XXI, a sociedade está gravidamente se tornando mais consciente a respeito das práticas discriminatórias com as minorias. Entretanto, é evidente que esse processo de mudança está ocorrendo de forma lenta. Por isso, é nesse contexto que o projeto Syoko surge como uma ferramenta eficaz para garantir a proteção desses grupos minoritárs que se sentem inseguros nos espaços de lazer.
 
-Portanto, o site tem como objetivo facilitar o acesso seguro de pessoas em situação de vulnerabilidade aos espaços públicos e privados, garantindo seu direito constitucional de ir e vir. Além disso, busca promover um sentimento de pertencimento e acolhimento, utilizando as experiências dessas pessoas como referência para outros em situações semelhantes. Através da combinação de tecnologia e inclusão, o site proporcionará mais segurança ao recomendar espaços frequentados por usuários que compartilham a mesma vivência.
+Dessa forma, esse projeto representa um avanço notável na direção da inclusão e acessibilidade digital. Ao adotar uma abordagem abrangente, o Syoko se posiciona como uma solução inovadora para abordar as lacunas de acessibilidade e promover a inclusão de diferentes públicos.
+
+Com uma paleta de cores cuidadosamente selecionada, tipografia legível e design responsivo, o Syoko prioriza a acessibilidade, garantindo que seu conteúdo seja facilmente compreensível e navegável para todos os usuários. Além disso, a preocupação com a compatibilidade com diversos navegadores e dispositivos demonstra um compromisso firme com a acessibilidade universal.
+
+Ao oferecer um ambiente online intuitivo e funcional, o Syoko não apenas reduz as barreiras tradicionais de acesso à informação, mas também promove a inclusão digital. Sua abordagem focada na usabilidade e na criação de uma comunidade colaborativa reflete um compromisso genuíno com a igualdade de oportunidades no mundo digital.
+
+Por meio da combinação de design acessível e funcionalidades interativas, o Projeto Syoko transcende as limitações convencionais, tornando-se um recurso valioso para a sociedade. Sua capacidade de oferecer uma experiência digital inclusiva não apenas beneficia indivíduos com necessidades específicas, mas também enriquece a experiência online de todos os usuários, promovendo um ambiente mais equitativo e acessível para a sociedade como um todo.
+
+Assim, o Syoko não apenas resolve desafios de inclusão e acessibilidade, mas também destaca-se como uma plataforma significativa, impulsionando a igualdade e a acessibilidade digital em benefício de toda a sociedade.
 
  # Referências Bibliográficas
 
